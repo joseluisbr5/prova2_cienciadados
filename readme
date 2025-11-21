@@ -1,0 +1,49 @@
+
+---
+
+## 📝 Atividades
+
+### 🔹 U2A1 – Análise de Vendas
+- Exploração de dataset de funcionários focado no departamento de **Vendas**.  
+- Estatísticas descritivas (média, mediana, desvio padrão).  
+- Visualizações (histogramas, boxplots, salários por cargo).  
+- Insights sobre padrões e outliers salariais.
+
+---
+
+### 🔹 U2At2 – Lista de Exercícios (Board Games)
+- Dataset: **Board Games Geek**.  
+- Estatística descritiva de notas e tempos de jogo.  
+- Tratamento de valores ausentes e outliers.  
+- Visualizações (histogramas, scatter plots, heatmaps).  
+- Análise temporal por década de publicação.
+
+---
+
+### 🔹 U2A3 – Limpeza de Dados (Titanic)
+- Dataset: **Titanic (Kaggle)**.  
+- Identificação e tratamento de valores ausentes (`Age`, `Cabin`, `Embarked`).  
+- Padronização de colunas categóricas (`Sex`, `Embarked`).  
+- Remoção de duplicatas.  
+- Detecção de outliers em `Fare`.
+
+---
+
+### 🔹 U2At3 – Exercícios de Limpeza de Dados
+- **Housing Prices Dataset** → tratamento de valores ausentes (remoção, mediana, KNN).  
+- **Customer Transactions** → duplicatas exatas e aproximadas (fuzzy matching).  
+- **Adult Census Income** → padronização de texto e normalização (Min-Max, Z-score, Robust).  
+- **Finance Data** → detecção e tratamento de outliers (Z-score, IQR, capping).  
+- **Dirty E-Commerce Data** → pipeline completo de limpeza (ausentes, duplicatas, inconsistências, outliers).
+
+---
+
+## ✅ Conclusão
+- A Unidade 2 consolidou práticas essenciais de **Data Cleaning e Data Analysis**.  
+- Cada atividade abordou problemas reais de qualidade de dados, mostrando diferentes técnicas de tratamento.  
+- O repositório serve como referência prática para futuros projetos de ciência de dados, garantindo que os dados estejam **consistentes, confiáveis e prontos para análise**.
+
+---
+
+## 👨‍💻 Autor
+- **José Luis Meneses da Silva** – Bacharelado em Engenharia de Software, Centro Universitário Santo Agostinho.
